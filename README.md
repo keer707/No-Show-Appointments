@@ -1,6 +1,7 @@
 # No-Show-Appointments
 
-Data Analysis Project of No-Show Medical Appointments in Brazil
+Data Analysis Project of No-Show Medical Appointments in Brazil.
+
 **Note:** Findings are **tentative**. Not verified by the principles of statistics and machine learning.
 
 ### Dataset source URL : 
