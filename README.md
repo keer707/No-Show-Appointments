@@ -16,7 +16,7 @@ https://www.kaggle.com/joniarroba/noshowappointments
 - python -m pip install requests
 
 ## Gather
-- File is downloaded programmatically from [Kaggel](https://www.kaggle.com/joniarroba/noshowappointments) 
+- File is downloaded programmatically from [Kaggle](https://www.kaggle.com/joniarroba/noshowappointments) 
 
 ## Assess
 Assess data for:
